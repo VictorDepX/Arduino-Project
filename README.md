@@ -68,7 +68,7 @@ O código principal está no arquivo `cortina_automatica.ino`. Ele utiliza as se
 
 ---
 
-## **Melhorias Futuras**
+## **Possíveis Melhorias**
 - Integração com relógios de tempo real (RTC) para sincronização com a hora real.
 - Adicionar um display LCD ou OLED para exibir o modo atual e os horários configurados.
 - Controle remoto via aplicativo ou Wi-Fi usando módulos como ESP8266/ESP32.
